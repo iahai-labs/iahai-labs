@@ -24,7 +24,7 @@ I'm particularly interested in Retrieval-Augmented Generation (RAG), AI automati
 
 **Backend:** FastAPI, REST APIs, PostgreSQL
 
-**AI & Automation:** RAG, LLM APIs, Jina Embeddings, Groq, pgvector
+**AI & Automation:** RAG, LLM Integration, Embeddings, Vector Search, AI Agents, Workflow Automation
 
 **Infrastructure:** Linux, Docker, Nginx, Git, GitHub
 
@@ -43,7 +43,7 @@ A multi-user RAG platform that transforms business documents into a searchable A
 - JWT authentication and user-owned documents
 - Security hardening, observability, and Docker deployment
 
-**Tech stack:** Python · FastAPI · PostgreSQL · pgvector · Jina · Groq · Docker
+**Tech stack:** Python · FastAPI · PostgreSQL · pgvector · LLM APIs · Docker
 
 [View Source Code](https://github.com/iahai-labs/AIA_Business_Knowledge_Assistant) · [Explore Live Portfolio Preview](https://ai.iradhd.ir/work/business-knowledge-assistant/)
 
